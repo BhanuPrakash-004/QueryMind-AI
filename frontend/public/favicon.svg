@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="QueryMind-AI">
+  <defs>
+    <linearGradient id="qm-bg" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2a2721"/>
+      <stop offset="1" stop-color="#1c1a15"/>
+    </linearGradient>
+    <linearGradient id="qm-handle" x1="39" y1="39" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f59e62"/>
+      <stop offset="1" stop-color="#d64a24"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#qm-bg)"/>
+  <circle cx="28" cy="28" r="13.5" fill="none" stroke="#faf7f1" stroke-width="4.5"/>
+  <rect x="21.5" y="29" width="3.5" height="7" rx="1.75" fill="#e0a106"/>
+  <rect x="27" y="25" width="3.5" height="11" rx="1.75" fill="#e85d2e"/>
+  <rect x="32.5" y="21" width="3.5" height="15" rx="1.75" fill="#faf7f1"/>
+  <path d="M38.5 38.5 47 47" stroke="url(#qm-handle)" stroke-width="5.5" stroke-linecap="round"/>
+</svg>

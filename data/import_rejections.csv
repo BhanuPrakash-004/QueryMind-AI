@@ -1,0 +1,2 @@
+row_number,transaction_id,reason,raw_row
+52,TXN0051,missing unit_price,"{""Transaction_Id"": ""TXN0051"", ""Order_date"": ""28-06-2026"", ""Product"": ""Laptop Stand"", ""Category"": ""Accessories"", ""Region"": ""East"", ""Sales_channel"": ""Online"", ""Quantity"": ""5"", ""Unit_price"": """", ""Discount_amount"": ""0"", ""Status"": ""Completed""}"
